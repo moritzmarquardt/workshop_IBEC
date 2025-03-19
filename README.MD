@@ -16,26 +16,26 @@ To use and run the notebooks on your Computer, follow these steps:
       ```  
     - Alternatively, download the repository as a ZIP file from the GitHub webpage and extract it to your desired location.
 
-2. **Download the Data**  
-    The required data for the notebooks is too large to be stored in this repository. Please download the data from [this link](<placeholder-link>) and extract it into the repository folder.
+2. **(Optional) Download the Training Data**  
+    The data for training the models is too large to be stored in this repository. Please download the data from [this link](<placeholder-link>) and extract it into the repository folder if you want to train the models yourself.
 
 3. **Set Up the Python Environment**  
     It is recommended to use a Python virtual environment to manage dependencies. Follow these steps:
 
     - **Create a Virtual Environment**  
-      Run the following command to create a virtual environment:
+      Run the following command in the folder that contains the repository to create a virtual environment:
       ```bash
-      python -m venv venv
+      python -m venv .venv
       ```
       
     - **Activate the Virtual Environment**  
       - On Windows:
          ```bash
-         venv\Scripts\activate
+         .venv\Scripts\activate
          ```
       - On macOS/Linux:
          ```bash
-         source venv/bin/activate
+         source .venv/bin/activate
          ```
 
     - **Install Dependencies**  
@@ -44,17 +44,16 @@ To use and run the notebooks on your Computer, follow these steps:
       pip install -r requirements.txt
       ```
 
+    - **(Optional) Using a Local Python Installation**  
+        If you prefer not to use a virtual environment, ensure that your local Python installation has all the required dependencies. Install them using:
+        ```bash
+        pip install -r requirements.txt
+        ```
+
 4. **Run the Notebooks**  
-    Start Jupyter Notebook or JupyterLab to run the notebooks:
+    Start Jupyter Notebook to run the notebooks:
     ```bash
     jupyter notebook
-    ```
-    Open the respective notebook for each part of the workshop and follow the instructions provided.
-
-5. **Using a Local Python Installation (Optional)**  
-    If you prefer not to use a virtual environment, ensure that your local Python installation has all the required dependencies. Install them using:
-    ```bash
-    pip install -r requirements.txt
     ```
 
 6. **Deactivate the Virtual Environment (if used)**  
