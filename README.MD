@@ -1,12 +1,23 @@
 # Workshop on Machine Learning Techniques at IBEC
 
 The workshop consisty of three parts represented by one respective notebook.
-- Bascis of image analysis and processing
-- Cell Separateion using Random Forest Classifiers
-- Cell Classification using Random Forest Classifieres and Convolutional Neural Networks  
+- Visualise the BBBP dataset using Uniform Manifold Approximation and Projection (UMAP)
+- Segmenting and Classification of cell images using Random Forest Classification (RFC)
+- Categorisation of cell images using a Convolutional Neural Network
 
-## Usage and Installation
 
+
+## Usage
+Choose one of the two options (A or B) to participate in this workshop.
+
+### A: Participate with google colab
+For this a Google account is necessary.
+
+1. Notebook 1: [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zzg5JlDGsvFSakiDLwnNc27HeVaLyu1V?usp=sharing)
+2. Notebook 2: 
+3. Notebook 3:
+
+### B: Participate with your own computer
 To use and run the notebooks on your Computer, follow these steps:
 1. **Clone or Download the Repository**  
     You can either clone this repository using Git or download it as a ZIP file:  
