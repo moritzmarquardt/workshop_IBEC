@@ -13,9 +13,9 @@ Choose one of the two options (A or B) to participate in this workshop.
 ### A: Participate with google colab
 For this a Google account is necessary.
 
-1. Notebook 1: [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17S74Kk2_Wk3ng8sKEodXZMfbGSlpp56y?usp=sharing)
-2. Notebook 2: [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_LFD3_8PuHleW9G7h8Sc8MTrGLcYQU01?usp=sharing)
-3. Notebook 3: [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-D_UP2E7rCxErGR0MlbHr6eZcTHKUBWK?usp=sharing)
+1. Notebook 1: [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lM2Ty-ZlaoztyLCAmt7ECoaTehIAFZCV?usp=sharing)
+2. Notebook 2: [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17p9XR8kuWuSdm2eOkgIFS_RuyCxFtgSh?usp=sharing)
+3. Notebook 3: [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HkEGZOofBMUs8y0WJez6TKBYVUZ0uEWb?usp=sharing)
 
 ### B: Participate with your own computer
 To use and run the notebooks on your Computer, follow these steps:
