@@ -28,7 +28,7 @@ To use and run the notebooks on your Computer, follow these steps:
     - Alternatively, download the repository as a ZIP file from the GitHub webpage and extract it to your desired location.
 
 2. **(Optional) Download the Training Data**  
-    The data for training the models is too large to be stored in this repository. Please download the data from [this link](<placeholder-link>) and extract it into the repository folder if you want to train the models yourself.
+    The data for training the models is too large to be stored in this repository. Please download the data from [Kaggle - Blood Cell Images](https://www.kaggle.com/datasets/paultimothymooney/blood-cells) and extract it into the repository folder if you want to train the models yourself.
 
 3. **Set Up the Python Environment**  
     It is recommended to use a Python virtual environment to manage dependencies. Follow these steps:
