@@ -10,12 +10,12 @@ The workshop consisty of three parts represented by one respective notebook.
 ## Usage
 Choose one of the two options (A or B) to participate in this workshop.
 
-### A: Participate with google colab
+### A: Participate with Google Colab
 For this a Google account is necessary.
 
-1. Notebook 1: [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lM2Ty-ZlaoztyLCAmt7ECoaTehIAFZCV?usp=sharing)
-2. Notebook 2: [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17p9XR8kuWuSdm2eOkgIFS_RuyCxFtgSh?usp=sharing)
-3. Notebook 3: [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HkEGZOofBMUs8y0WJez6TKBYVUZ0uEWb?usp=sharing)
+1. Notebook 1: [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XSCNLfT-r_jLDaBekB_Oe0FVkx_EZftW?usp=sharing)
+2. Notebook 2: [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XbiIPbmav-w89CQHtyFpTqIwYM67QJtz?usp=sharing)
+3. Notebook 3: [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14B8RAfnoQSmxN52NzmOIfxecHMa0_rKB?usp=sharing)
 
 ### B: Participate with your own computer
 To use and run the notebooks on your Computer, follow these steps:
@@ -28,7 +28,7 @@ To use and run the notebooks on your Computer, follow these steps:
     - Alternatively, download the repository as a ZIP file from the GitHub webpage and extract it to your desired location.
 
 2. **(Optional) Download the Training Data**  
-    The data for training the models is too large to be stored in this repository. Please download the data from [Kaggle - Blood Cell Images](https://www.kaggle.com/datasets/paultimothymooney/blood-cells) and extract it into the repository folder if you want to train the models yourself.
+    The data for training the models is too large to be stored in this repository. Please download the data from [Kaggle - Blood Cell Images](https://www.kaggle.com/datasets/paultimothymooney/blood-cells) and extract it into the repository folder if you want to train the models yourself and run all sections of the third notebook.
 
 3. **Set Up the Python Environment**  
     It is recommended to use a Python virtual environment to manage dependencies. Follow these steps:
@@ -55,20 +55,8 @@ To use and run the notebooks on your Computer, follow these steps:
       pip install -r requirements.txt
       ```
 
-    - **(Optional) Using a Local Python Installation**  
-        If you prefer not to use a virtual environment, ensure that your local Python installation has all the required dependencies. Install them using:
-        ```bash
-        pip install -r requirements.txt
-        ```
-
 4. **Run the Notebooks**  
     Start Jupyter Notebook to run the notebooks:
     ```bash
     jupyter notebook
-    ```
-
-6. **Deactivate the Virtual Environment (if used)**  
-    Once you are done, deactivate the virtual environment by running:
-    ```bash
-    deactivate
     ```
